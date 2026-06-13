@@ -5,8 +5,8 @@ Download and append the script directly to your shell profile.
 
 ### Bash
 ```bash
-curl -s https://raw.githubusercontent.com/USER/REPO/main/file.sh >> ~/.bashrc && source ~/.bashrc
+curl -s https://raw.githubusercontent.com/elahiaswat/aswh/main/file.sh >> ~/.bashrc && source ~/.bashrc
 
 ### Zsh
-```zsh
-curl -s https://raw.githubusercontent.com/USER/REPO/main/file.sh >> ~/.zshrc && source ~/.zshrc
+```bash
+curl -s https://raw.githubusercontent.com/elahiaswat/aswh/main/file.sh >> ~/.zshrc && source ~/.zshrc
