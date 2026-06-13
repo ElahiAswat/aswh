@@ -46,7 +46,7 @@ lstoday -r #lists all files/dir changed today with content inside folders
 ```
 
 ### cdir
-create a new dir and cd into it
+Create a new dir and cd into it
 
 ```bash
 cdir aswh #creates a new dir aswh and cd into it
