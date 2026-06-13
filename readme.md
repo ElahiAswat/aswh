@@ -26,3 +26,29 @@ nano ~/.zshrc
 ```
 
 Then manually paste the content of scripts.sh
+
+## Usage
+
+### catfile
+Looks for exact matches inside a file and opens directly at that point with nano
+
+```bash
+catfile path/to/file word #looks for 'word' inside path/to/file
+```
+
+### lstoday
+Lists all files/dir created today. Use -r for recursive search inside folders.
+
+```bash
+lstoday #lists all files/dir changed today
+
+lstoday -r #lists all files/dir changed today with content inside folders
+```
+
+### cdir
+create a new dir and cd into it
+
+```bash
+cdir aswh #creates a new dir aswh and cd into it
+```
+
